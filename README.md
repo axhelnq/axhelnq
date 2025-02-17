@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=axhelnq.axhelnq&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -56,6 +52,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axhelnq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axhelnq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=axhelnq.axhelnq&"  />
 </div>
 
 ###
