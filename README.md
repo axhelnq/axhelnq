@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Ilya<br><br>- 📚 I'm currently learning Redux Tollkit, Redux Toolkit Query, TypeScript<br>- ⚡ In my free time, I practice the material I have learned</p>
+<p align="left">I'm Ilya<br><br>- 📚 I'm currently learning Redux Tollkit<br>- ⚡ In my free time, I practice the material I have learned</p>
 
 ###
 
