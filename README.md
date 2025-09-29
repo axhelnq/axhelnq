@@ -40,8 +40,7 @@
   <img width="12" />  
   <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" height="40" alt="axios logo" />
   <img width="12" />  
-  <img src="https://static-00.iconduck.com/assets.00/react-router-icon-1024x559-m9r1k9t4.png" height="40" alt="react router logo" />
-  <img width="12" />  
+  react-router, json-server, loadsh, yarn, prettier, eslint, vite
 </div>
 
 ###
