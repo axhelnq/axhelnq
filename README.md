@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <a href="t.me/wofnen" target="_blank">
+  <a href="http://t.me/wofnen" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  /></a>
   <a href="https://www.linkedin.com/in/illia-hladii-876318324/" tagret="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
