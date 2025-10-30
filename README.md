@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Ilya and I'm a fullstack + cross-platform engineer</p>
+<p align="left">My name is Ilya and I'm a <b>Fullstack & Cross-Platform Engineer</b></p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a <b>Fullstack & Cross-Platform Developer</b> focused on building scalable web and mobile apps.</p>
+<p align="left">I'm a <b>Fullstack & Cross-Platform Engineer</b> focused on building scalable web and mobile apps.</p>
 <p align="left">Currently expanding my skills in <b>React, Next.js, and NestJS</b>.</p>
 <p align="left">🎯 Goal: keep growing as an engineer (and yes, buy that car someday 🚗).</p>
 <p align="left">🎓 Computer Science student passionate about technology and problem-solving.</p>
