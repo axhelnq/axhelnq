@@ -4,27 +4,26 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome.</h1>
 
 ###
 
-<p align="left">My name is Ilya and I'm a <b>Fullstack & Cross-Platform Software Engineer</b></p>
+<p align="left">My name is Ilya and I'm a <b>Fullstack & Cross-Platform Software Engineer</b>.</p>
 
 ###
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">I'm focused on building scalable web and mobile apps.</p>
-<p align="left">Currently expanding my skills in <b>React, Next.js, and NestJS</b>.</p>
-<p align="left">🎯 Goal: keep growing as an engineer (and yes, buy that car someday 🚗).</p>
-<p align="left">🎓 Computer Science student passionate about technology and problem-solving.</p>
-
+<p align="left">I build scalable, production-ready web and mobile applications with a strong focus on reliability, performance, and long-term maintainability.</p>
+<p align="left">My work centers around designing robust system architecture and delivering solutions using <b>React</b>, <b>Next.js</b>, and <b>NestJS</b>.</p>
+<p align="left">I value clean, well-structured codebases, efficient developer workflows, and engineering practices that support product growth at scale.</p>
+<p align="left">CS student with hands-on experience delivering production-ready applications.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -58,7 +57,7 @@
 
 ###
 
-<h2 align="left">My socials</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
