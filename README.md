@@ -51,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Logo_dark_ff2db7a0fb.png" height="40" alt="strapi logo"  />
 
 
 </div>
