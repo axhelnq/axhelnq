@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Ilya and I'm a <b>Fullstack & Cross-Platform Software Engineer</b>.</p>
+<p align="left">My name is Ilya and I'm a <b>Fullstack Software Engineer</b>.</p>
 
 ###
 
@@ -30,10 +30,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.prod.website-files.com/67e6c26f2d676c1963e098b9/68d277cb9b5faf765ade527f_react-native-banner-1024x300-e1510060053599.png" height="40" alt="react native logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
@@ -52,8 +50,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://delicate-dawn-ac25646e6d.media.strapiapp.com/Strapi_Logo_dark_ff2db7a0fb.png" height="40" alt="strapi logo"  />
-  docker, mui, mantine ui
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
+
   
 
 
