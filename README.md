@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Ilya and I'm a <b>Fullstack Software Engineer</b>.</p>
+<p align="left">My name is Ilya and I'm a <b>Fullstack & Cross-Platform Software Engineer</b>.</p>
 
 ###
 
