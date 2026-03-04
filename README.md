@@ -33,8 +33,10 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <div align="left">
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+</div>
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
